@@ -1,5 +1,5 @@
 # Act_3.3_Gestion-de-Grafos
-Este proyecto consiste en el desarrollo de una aplicación de escritorio en Java que permite representar y gestionar grafos mediante una interfaz gráfica.
+Este proyecto consiste en el desarrollo de una aplicación de escritorio en Java que permite representar y gestionar grafos mediante una interfaz gráfica. Se desarrolla una aplicación con interfaz gráfica en Java Swing para representar grafos, administrar vértices y conexiones, y realizar diferentes operaciones de recorrido.
 
 ## Equipo #2
 CONTRERAS RODRIGUEZ JANIS ISABEL
